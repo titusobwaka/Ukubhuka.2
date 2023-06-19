@@ -6,7 +6,7 @@
 </head>
 <body>
   <header>
-    <h1>Welcome to the Safari Dashboard</h1>
+    <h1>Welcome to the Safari </h1>
   </header>
   
   <nav>
